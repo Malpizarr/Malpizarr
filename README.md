@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente estoy **estudiando, además de eso aprendo nuevas habilidades día a día**
 
-- 🌱 Actualmente estoy aprendiendo **sobre GO **
+- 🌱 Actualmente estoy aprendiendo **sobre GO**
 
 - 📫 Como contactarme **m.alpizar@hotmail.com**
 
