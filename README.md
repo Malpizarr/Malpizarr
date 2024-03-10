@@ -1,9 +1,9 @@
 <h1 align="center">Mi Nombre es Mauricio Alpizar</h1>
 <h3 align="center">Programador amante de aprender cosas nuevas</h3>
 
-- 🔭 Actualmente estoy **estudiando, además de eso soy self-taught en front end**
+- 🔭 Actualmente estoy **estudiando, además de eso aprendo nuevas habilidades día a día**
 
-- 🌱 Actualmente estoy aprendiendo **sobre Preact**
+- 🌱 Actualmente estoy aprendiendo **sobre GO **
 
 - 📫 Como contactarme **m.alpizar@hotmail.com**
 
